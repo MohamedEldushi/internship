@@ -1,2 +1,2 @@
 # internship
-A repo for our internship github course
+A repository for our internship GitHub course
