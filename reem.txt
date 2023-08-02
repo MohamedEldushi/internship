@@ -4,3 +4,4 @@ hi
 =======
 today is a nice day 
 >>>>>>> ec42f67ec51d5017766cca72ea6f3ed12c34c102
+well
