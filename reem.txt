@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 asdasd
 hi 
-=======
-today is a nice day 
->>>>>>> ec42f67ec51d5017766cca72ea6f3ed12c34c102
 well
+Im working on reems file in my branch
